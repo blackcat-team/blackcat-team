@@ -7,7 +7,7 @@
 :black_small_square: RAM - 128GB DDR4 RAM  
 :black_small_square: Drives - 3 x 2TB NVMe SSD  
 :black_small_square: Bandwidth - 1 Gbit/s-Port  
-🌎 **GER**  :
+🌎 **GER**:  
 :black_small_square: Processor - AMD Ryzen 5950X  
 :black_small_square: RAM - 128GB DDR4 RAM  
 :black_small_square: Drives - 3 x 2TB NVMe SSD  
@@ -28,19 +28,20 @@
 :black_small_square: **[Defund](https://defund.explorers.guru/validator/defundvaloper1tucv4qydy2zk0t2z3e6ymeqpjfxez8jwlz4huh)**  
 :black_small_square: **[Gitopia](https://gitopia.explorers.guru/validator/gitopiavaloper1krcu6jcks5fyaaafgm2hmkt6a5w7wt73r0ptf5)**  
 :black_small_square: **[Uptick](https://uptick.explorers.guru/validator/uptickvaloper1gecxdhuu6pdtplglzpumuanumh9vpdjchx0fw6)**  
-:black_small_square: **[Terp](https://explorer.kjnodes.com/terp-test/staking/terpvaloper1wdpc3jqunry6dmw46w7zjtq0dag35aj822a4ss)**
+:black_small_square: **[Terp](https://explorer.kjnodes.com/terp-test/staking/terpvaloper1wdpc3jqunry6dmw46w7zjtq0dag35aj822a4ss)**  
 :black_small_square: **Nolus**  
-:black_small_square:**Humans**  
+:black_small_square: **Humans**  
 <img src='https://github.com/blackcat-team/.github-images/blob/8531f57a7e8c52e126dbd4f9c11b2fd7a1d9d27b/Old.gif' alt='Complete'  width='99.5%'>
 <details>
   <summary>Show</summary>
-  :heavy_check_mark:**Aptos**  
-  :heavy_check_mark:**Archway**  
-  :heavy_check_mark: **Umee*
+  :heavy_check_mark:Aptos    
+  :heavy_check_mark:Archway   
+  :heavy_check_mark:Umee 
     </details>
     
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/889835802371174501) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/red_tvr) 
-## 🐦 Latest Tweet
+### 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/889835802371174501) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/red_tvr) 
+#### 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/red_tvr)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 <img src="https://komarev.com/ghpvc/?username=your-github-blackcat-team&style=flat-square&color=blue" alt=""/>
