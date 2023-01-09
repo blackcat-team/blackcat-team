@@ -29,14 +29,16 @@
 :black_small_square: **[Gitopia](https://gitopia.explorers.guru/validator/gitopiavaloper1krcu6jcks5fyaaafgm2hmkt6a5w7wt73r0ptf5)**  
 :black_small_square: **[Uptick](https://uptick.explorers.guru/validator/uptickvaloper1gecxdhuu6pdtplglzpumuanumh9vpdjchx0fw6)**  
 :black_small_square: **[Terp](https://explorer.kjnodes.com/terp-test/staking/terpvaloper1wdpc3jqunry6dmw46w7zjtq0dag35aj822a4ss)**  
-:black_small_square: **Nolus**  
-:black_small_square: **Humans**  
+:black_small_square: **[Nolus](https://explorer-rila.nolus.io/nolus-rila/staking/nolusvaloper196syhh4rh9ulpp280xs7zrgx4fdu582nnqys4u)**  
+:black_small_square: **[Humans](https://explorer.humans.zone/humans-testnet/staking/humanvaloper1f63sd2yznrwtn5s2advj3vld0y9g46cevmg76x)**  
 <img src='https://github.com/blackcat-team/.github-images/blob/8531f57a7e8c52e126dbd4f9c11b2fd7a1d9d27b/Old.gif' alt='Complete'  width='99.5%'>
 <details>
-  <summary>Show</summary>
-  :heavy_check_mark:Aptos    
-  :heavy_check_mark:Archway   
-  :heavy_check_mark:Umee 
+  <summary><h3>Show</h3></summary>
+  <br>:heavy_check_mark:Aptos</br>    
+  <br>:heavy_check_mark:Archway</br>  
+  <br>:heavy_check_mark:Umee</br>
+  <br>:heavy_check_mark:DWS</br> 
+  <br>:heavy_check_mark:Empower</br> 
     </details>
     
 ### 🌐 Socials:
