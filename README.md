@@ -30,7 +30,10 @@
 :black_small_square: **[Uptick](https://uptick.explorers.guru/validator/uptickvaloper1gecxdhuu6pdtplglzpumuanumh9vpdjchx0fw6)**  
 :black_small_square: **[Terp](https://explorer.kjnodes.com/terp-test/staking/terpvaloper1wdpc3jqunry6dmw46w7zjtq0dag35aj822a4ss)**  
 :black_small_square: **[Nolus](https://explorer-rila.nolus.io/nolus-rila/staking/nolusvaloper196syhh4rh9ulpp280xs7zrgx4fdu582nnqys4u)**  
-:black_small_square: **[Humans](https://explorer.humans.zone/humans-testnet/staking/humanvaloper1f63sd2yznrwtn5s2advj3vld0y9g46cevmg76x)**  
+:black_small_square: **[Humans](https://explorer.humans.zone/humans-testnet/staking/humanvaloper1f63sd2yznrwtn5s2advj3vld0y9g46cevmg76x)**
+:black_small_square: **Exorde**
+:black_small_square: **Mars**
+:black_small_square: **Taiko**
 <img src='https://github.com/blackcat-team/.github-images/blob/8531f57a7e8c52e126dbd4f9c11b2fd7a1d9d27b/Old.gif' alt='Complete'  width='99.5%'>
 <details>
   <summary><h3>Show</h3></summary>
