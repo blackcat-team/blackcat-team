@@ -33,7 +33,8 @@
 :black_small_square: **[Humans](https://explorer.humans.zone/humans-testnet/staking/humanvaloper1f63sd2yznrwtn5s2advj3vld0y9g46cevmg76x)**  
 :black_small_square: **Exorde**  
 :black_small_square: **[Mars](https://mars.explorers.guru/validator/marsvaloper14w7zflkwj9wpmkhzx77jks8p33p7elyk0my3sl)**  
-:black_small_square: **Taiko**  
+:black_small_square: **[Andromeda](https://andromeda.explorers.guru/validator/andrvaloper1cpxqex00msx8nk6p33glep64uk008lr3s4eku4)**  
+:black_small_square: **Shardeum**
 <img src='https://github.com/blackcat-team/.github-images/blob/8531f57a7e8c52e126dbd4f9c11b2fd7a1d9d27b/Old.gif' alt='Complete'  width='99.5%'>
 <details>
   <summary><h3>Show</h3></summary>
@@ -42,6 +43,7 @@
   <br>:heavy_check_mark:Umee</br>
   <br>:heavy_check_mark:DWS</br> 
   <br>:heavy_check_mark:Empower</br> 
+  <br>:heavy_check_mark:Taiko</br> 
     </details>
     
 ### 🌐 Socials:
