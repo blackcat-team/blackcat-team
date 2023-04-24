@@ -30,7 +30,7 @@
 :black_small_square: **[Nolus](https://explorer-rila.nolus.io/nolus-rila/staking/nolusvaloper196syhh4rh9ulpp280xs7zrgx4fdu582nnqys4u)**       
 :black_small_square: **[Andromeda](https://andromeda.explorers.guru/validator/andrvaloper1cpxqex00msx8nk6p33glep64uk008lr3s4eku4)**  
 :black_small_square: **Shardeum**  
-:black_small_square: **Celestia**  
+:black_small_square: **[Celestia](https://tiascan.com/light-node/12D3KooWHmSw8SM753Yexwzb66WSJMo8mjEDnCSqfayzh7HZm5rZ)**  
 :black_small_square: **SubSpace**  
 :black_small_square: **[EYWA](https://explorer.dev2.eywa.fi/validators/?search=0xb9622C38a653c006982841E70D599a52b1b9466D&p=1)**  
 :black_small_square: **Muon**  
