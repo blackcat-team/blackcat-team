@@ -32,7 +32,7 @@
 :black_small_square: **Shardeum**  
 :black_small_square: **Celestia**  
 :black_small_square: **SubSpace**  
-:black_small_square: **EYWA**  
+:black_small_square: **[EYWA](https://explorer.dev2.eywa.fi/validators/?search=0xb9622C38a653c006982841E70D599a52b1b9466D&p=1)**  
 :black_small_square: **Muon**  
 :black_small_square: **Penumbra**  
 <img src='https://github.com/blackcat-team/.github-images/blob/8531f57a7e8c52e126dbd4f9c11b2fd7a1d9d27b/Old.gif' alt='Complete'  width='99.5%'>
