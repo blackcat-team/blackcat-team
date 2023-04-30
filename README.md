@@ -13,9 +13,13 @@
 :black_small_square: Drives - 3 x 2TB NVMe SSD  
 :black_small_square: Bandwidth - 1 Gbit/s-Port  
 #
+<img src='https://user-images.githubusercontent.com/83868103/183111052-2bc3a8cf-f5b7-4915-8a09-212f09859e34.gif' width='99.5%'>
+
+:black_small_square: **Minima**  
+:black_small_square: **[Terp](https://terp.zenscan.io/validator.php?addr=terpvaloper1s9457pmjeadq0f4vgt4qj68r23uj7jj24ujzcv)**
+
 <img src='https://github.com/blackcat-team/.github-images/blob/8531f57a7e8c52e126dbd4f9c11b2fd7a1d9d27b/183112064-24d8012d-8808-49dd-add7-d1a631e18170.gif' alt='activetestnet'  width='99.5%'>
 
-:black_small_square: **SUI**  
 :black_small_square: **Ziesha**  
 :black_small_square: **Minima**  
 :black_small_square: **StarkNet**  
@@ -50,7 +54,8 @@
   <br>:heavy_check_mark:Exorde</br>
   <br>:heavy_check_mark:Mars</br>
   <br>:heavy_check_mark:Chainflipp</br>
-  
+  <br>:heavy_check_mark:Minima</br>
+  <br>:heavy_check_mark:SUI</br>
  
 </details>
     
