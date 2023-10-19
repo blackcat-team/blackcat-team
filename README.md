@@ -16,28 +16,21 @@
 <img src='https://user-images.githubusercontent.com/83868103/183111052-2bc3a8cf-f5b7-4915-8a09-212f09859e34.gif' width='99.5%'>
 
 :black_small_square: **Minima**  
-:black_small_square: **[Terp](https://terp.zenscan.io/validator.php?addr=terpvaloper1s9457pmjeadq0f4vgt4qj68r23uj7jj24ujzcv)**
+:black_small_square: **[Terp](https://terp.zenscan.io/validator.php?addr=terpvaloper1s9457pmjeadq0f4vgt4qj68r23uj7jj24ujzcv)**  
+:black_small_square: **Muon** 
+<img src='https://github.com/blackcat-team/.github-images/blob/8531f57a7e8c52e126dbd4f9c11b2fd7a1d9d27b/183112064-24d8012d-8808-49dd-add7-d1a631e18170.gif' alt='activetestnet'  width='99.5%'>  
 
-<img src='https://github.com/blackcat-team/.github-images/blob/8531f57a7e8c52e126dbd4f9c11b2fd7a1d9d27b/183112064-24d8012d-8808-49dd-add7-d1a631e18170.gif' alt='activetestnet'  width='99.5%'>
-
-:black_small_square: **Ziesha**  
-:black_small_square: **BASE**  
 :black_small_square: **StarkNet**  
-:black_small_square: **Bundlr**  
-:black_small_square: **[Nibiru](https://nibiru.explorers.guru/validator/nibivaloper1lk6wpfkyqn8ee4lnlaxsy5ykdqknqcpnhlsdue)**  
-:black_small_square: **Massa**  
+:black_small_square: **Irys**  
+:black_small_square: **[Nibiru](https://nibiru.explorers.guru/validator/nibivaloper1lk6wpfkyqn8ee4lnlaxsy5ykdqknqcpnhlsdue)**    
 :black_small_square: **[Cardchain](https://explorer.kjnodes.com/cardchain-testnet/staking/ccvaloper1uxc3zdswdvfmzk086zczrjuqtxr6dj2f7jga5j)**  
 :black_small_square: **[Lava](https://lava.explorers.guru/validator/lava@valoper13jk9kz4469kv40ucurt57nwg7gksv22gvc2szn)**  
-:black_small_square: **[Defund](https://defund.explorers.guru/validator/defundvaloper1tucv4qydy2zk0t2z3e6ymeqpjfxez8jwlz4huh)**  
-:black_small_square: **[Gitopia](https://gitopia.explorers.guru/validator/gitopiavaloper1krcu6jcks5fyaaafgm2hmkt6a5w7wt73r0ptf5)**   
-:black_small_square: **[Terp](https://explorer.kjnodes.com/terp-testnet/staking/terpvaloper1s9457pmjeadq0f4vgt4qj68r23uj7jj24ujzcv)**  
 :black_small_square: **[Nolus](https://explorer-rila.nolus.io/nolus-rila/staking/nolusvaloper196syhh4rh9ulpp280xs7zrgx4fdu582nnqys4u)**       
 :black_small_square: **[Andromeda](https://andromeda.explorers.guru/validator/andrvaloper1cpxqex00msx8nk6p33glep64uk008lr3s4eku4)**  
 :black_small_square: **Shardeum**  
 :black_small_square: **[Celestia](https://tiascan.com/light-node/12D3KooWHmSw8SM753Yexwzb66WSJMo8mjEDnCSqfayzh7HZm5rZ)**  
 :black_small_square: **SubSpace**  
-:black_small_square: **[EYWA](https://explorer.dev2.eywa.fi/validators/?search=0xb9622C38a653c006982841E70D599a52b1b9466D&p=1)**  
-:black_small_square: **Muon**  
+:black_small_square: **[EYWA](https://explorer.dev2.eywa.fi/validators/?search=0xb9622C38a653c006982841E70D599a52b1b9466D&p=1)**   
 :black_small_square: **Penumbra**  
 <img src='https://github.com/blackcat-team/.github-images/blob/8531f57a7e8c52e126dbd4f9c11b2fd7a1d9d27b/Old.gif' alt='Complete'  width='99.5%'>
 <details>
@@ -56,7 +49,12 @@
   <br>:heavy_check_mark:Chainflipp</br>
   <br>:heavy_check_mark:Minima</br>
   <br>:heavy_check_mark:SUI</br>
- 
+  <br>:heavy_check_mark:Ziesha</br>
+  <br>:heavy_check_mark:BASE</br>
+  <br>:heavy_check_mark:Massa</br>
+  <br>:heavy_check_mark:Defund</br>
+  <br>:heavy_check_mark:Gitopia</br>
+  <br>:heavy_check_mark:Terp</br>
 </details>
     
 ### 🌐 Socials:
