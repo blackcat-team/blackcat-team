@@ -23,7 +23,7 @@
 :black_small_square: **StarkNet**  
 :black_small_square: **Irys**  
 :black_small_square: **[Nibiru](https://nibiru.explorers.guru/validator/nibivaloper1lk6wpfkyqn8ee4lnlaxsy5ykdqknqcpnhlsdue)**    
-:black_small_square: **[Cardchain](https://explorer.kjnodes.com/cardchain-testnet/staking/ccvaloper1uxc3zdswdvfmzk086zczrjuqtxr6dj2f7jga5j)**  
+:black_small_square: **[Crowd Control](https://explorer.kjnodes.com/cardchain-testnet/staking/ccvaloper1uxc3zdswdvfmzk086zczrjuqtxr6dj2f7jga5j)**  
 :black_small_square: **[Lava](https://lava.explorers.guru/validator/lava@valoper13jk9kz4469kv40ucurt57nwg7gksv22gvc2szn)**  
 :black_small_square: **[Nolus](https://explorer-rila.nolus.io/nolus-rila/staking/nolusvaloper196syhh4rh9ulpp280xs7zrgx4fdu582nnqys4u)**       
 :black_small_square: **[Andromeda](https://andromeda.explorers.guru/validator/andrvaloper1cpxqex00msx8nk6p33glep64uk008lr3s4eku4)**  
@@ -32,6 +32,9 @@
 :black_small_square: **SubSpace**  
 :black_small_square: **[EYWA](https://explorer.dev2.eywa.fi/validators/?search=0xb9622C38a653c006982841E70D599a52b1b9466D&p=1)**   
 :black_small_square: **Penumbra**  
+:black_small_square: **Fleek**  
+:black_small_square: **Taiko**  
+:black_small_square: **[Cascadia](https://validator.cascadia.foundation/validators/cascadiavaloper1l2393wla4xw3660vsjekg9lk7ap5fzzuhv50qx)**  
 <img src='https://github.com/blackcat-team/.github-images/blob/8531f57a7e8c52e126dbd4f9c11b2fd7a1d9d27b/Old.gif' alt='Complete'  width='99.5%'>
 <details>
   <summary><h3>Show</h3></summary>
