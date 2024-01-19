@@ -31,7 +31,7 @@
 :black_small_square: **Fleek**  
 :black_small_square: **Taiko**  
 :black_small_square: **[Cascadia](https://testnet.cascadia.explorers.guru/validator/cascadiavaloper1l2393wla4xw3660vsjekg9lk7ap5fzzuhv50qx)**  
-:black_small_square: **Avail** 
+:black_small_square: **Avail**  
 :black_small_square: **Frame**  
 :black_small_square: **[Arkeo](https://testnet.arkeo.explorers.guru/validator/tarkeovaloper1yvd42rurezpm65h5xm75qc83rk22jl57ge6f86)**  
 :black_small_square: **[Babylon](https://babylon.explorers.guru/validator/bbnvaloper1jtg840yd3tpt4etr39rg4q5rgakcslv5wump5z)**  
