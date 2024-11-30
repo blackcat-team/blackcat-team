@@ -29,46 +29,75 @@
 :black_small_square: **Waku**  
 
 <img src='https://github.com/blackcat-team/.github-images/blob/8531f57a7e8c52e126dbd4f9c11b2fd7a1d9d27b/Old.gif' alt='Complete'  width='99.5%'>
-  <br>:heavy_check_mark:Aptos</br>    
-  <br>:heavy_check_mark:Archway</br>  
-  <br>:heavy_check_mark:Umee</br>
-  <br>:heavy_check_mark:DWS</br> 
-  <br>:heavy_check_mark:Empower</br> 
-  <br>:heavy_check_mark:Taiko</br> 
-  <br>:heavy_check_mark:Chainflipp</br>
-  <br>:heavy_check_mark:Uptick</br>
-  <br>:heavy_check_mark:Humans</br>
-  <br>:heavy_check_mark:Exorde</br>
-  <br>:heavy_check_mark:Mars</br>
-  <br>:heavy_check_mark:Chainflipp</br>
-  <br>:heavy_check_mark:Minima</br>
-  <br>:heavy_check_mark:SUI</br>
-  <br>:heavy_check_mark:Ziesha</br>
-  <br>:heavy_check_mark:BASE</br>
-  <br>:heavy_check_mark:Massa</br>
-  <br>:heavy_check_mark:Defund</br>
-  <br>:heavy_check_mark:Gitopia</br>
-  <br>:heavy_check_mark:Terp</br>
-  <br>:heavy_check_mark:Nibiru</br>
-  <br>:heavy_check_mark:Nolus</br>
-  <br>:heavy_check_mark:Andromeda</br>
-  <br>:heavy_check_mark:Celestia</br>
-  <br>:heavy_check_mark:Penumbra</br>
-  <br>:heavy_check_mark:Terp</br>
-  <br>:heavy_check_mark:StarkNet</br>
-  <br>:heavy_check_mark:Irys</br>
-  <br>:heavy_check_mark:Lava</br> 
-  <br>:heavy_check_mark:SubSpace</br>
-  <br>:heavy_check_mark:EYWA</br>
-  <br>:heavy_check_mark:Fleek</br>
-  <br>:heavy_check_mark:Taiko</br>
-  <br>:heavy_check_mark:Cascadia</br>
-  <br>:heavy_check_mark:Arkeo</br>
-  <br>:heavy_check_mark:Babylon</br>
-  <br>:heavy_check_mark:Entagle</br>
-  <br>:heavy_check_mark:Avail</br>
-  <br>:heavy_check_mark:Frame</br>
-  <br>:heavy_check_mark:Fractal</br>
+ <html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Three Columns List</title>
+  <style>
+    .container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px; /* Расстояние между элементами */
+    }
+    .column {
+      flex: 1; /* Позволяет колонкам быть одинакового размера */
+      min-width: 200px; /* Минимальная ширина для колонки */
+    }
+    .column ul {
+      list-style-type: none; /* Убирает маркеры списка */
+      padding: 0;
+    }
+    .column li {
+      margin-bottom: 5px; /* Отступ между элементами списка */
+    }
+    .column .checkmark {
+      font-weight: bold; /* Для выделения галочки */
+      color: green; /* Цвет галочки */
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="column">
+      <ul>
+        <li><span class="checkmark">✔</span> Aptos</li>
+        <li><span class="checkmark">✔</span> Archway</li>
+        <li><span class="checkmark">✔</span> Umee</li>
+        <li><span class="checkmark">✔</span> DWS</li>
+        <li><span class="checkmark">✔</span> Empower</li>
+        <li><span class="checkmark">✔</span> Taiko</li>
+        <li><span class="checkmark">✔</span> Chainflipp</li>
+        <li><span class="checkmark">✔</span> Uptick</li>
+      </ul>
+    </div>
+    <div class="column">
+      <ul>
+        <li><span class="checkmark">✔</span> Humans</li>
+        <li><span class="checkmark">✔</span> Exorde</li>
+        <li><span class="checkmark">✔</span> Mars</li>
+        <li><span class="checkmark">✔</span> Minima</li>
+        <li><span class="checkmark">✔</span> SUI</li>
+        <li><span class="checkmark">✔</span> Ziesha</li>
+        <li><span class="checkmark">✔</span> BASE</li>
+        <li><span class="checkmark">✔</span> Massa</li>
+      </ul>
+    </div>
+    <div class="column">
+      <ul>
+        <li><span class="checkmark">✔</span> Defund</li>
+        <li><span class="checkmark">✔</span> Gitopia</li>
+        <li><span class="checkmark">✔</span> Terp</li>
+        <li><span class="checkmark">✔</span> Nibiru</li>
+        <li><span class="checkmark">✔</span> Nolus</li>
+        <li><span class="checkmark">✔</span> Andromeda</li>
+        <li><span class="checkmark">✔</span> Celestia</li>
+        <li><span class="checkmark">✔</span> Penumbra</li>
+      </ul>
+    </div>
+  </div>
+</body>
+</html>
  
 ### 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/889835802371174501) 
