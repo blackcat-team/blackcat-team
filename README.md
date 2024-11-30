@@ -30,6 +30,7 @@
 
 <img src='https://github.com/blackcat-team/.github-images/blob/8531f57a7e8c52e126dbd4f9c11b2fd7a1d9d27b/Old.gif' alt='Complete'  width='99.5%'>
 
+| Колонка 1       | Колонка 2       | Колонка 3       |
 |------------------|-----------------|-----------------|
 | ✔️ Aptos         | ✔️ Humans       | ✔️ Defund       |
 | ✔️ Archway       | ✔️ Exorde       | ✔️ Gitopia      |
@@ -39,9 +40,9 @@
 | ✔️ Taiko         | ✔️ Ziesha       | ✔️ Andromeda    |
 | ✔️ Chainflipp    | ✔️ BASE         | ✔️ Celestia     |
 | ✔️ Uptick        | ✔️ Massa        | ✔️ Penumbra     |
-|    ✔️ Irys       |  ✔️ StarkNet    | ✔️ Terp         |
-|                  |                 |    |
-|                  |                 |          |
+|                  |                 | ✔️ Terp         |
+|                  |                 | ✔️ StarkNet     |
+|                  |                 | ✔️ Irys         |
 |                  |                 | ✔️ Lava         |
 |                  |                 | ✔️ SubSpace     |
 |                  |                 | ✔️ EYWA         |
@@ -53,7 +54,6 @@
 |                  |                 | ✔️ Avail        |
 |                  |                 | ✔️ Frame        |
 |                  |                 | ✔️ Fractal      |
-
  
 ### 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/889835802371174501) 
