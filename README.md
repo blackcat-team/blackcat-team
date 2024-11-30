@@ -29,14 +29,18 @@
 :black_small_square: **Waku**  
 
 <img src='https://github.com/blackcat-team/.github-images/blob/8531f57a7e8c52e126dbd4f9c11b2fd7a1d9d27b/Old.gif' alt='Complete'  width='99.5%'>
-|                        |                        |                        |                        |                        |                        |                        |                        |
-|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|
-| ✅ Aptos              | ✅ Humans             | ✅ Defund             | ✅ Celestia           | ✅ Avail              | ✅ Lava               | ✅ StarkNet           | ✅ SubSpace           |
-| ✅ Archway            | ✅ Exorde             | ✅ Gitopia            | ✅ Penumbra           | ✅ Frame              | ✅ Fleek              | ✅ Irys               | ✅ EYWA               |
-| ✅ Umee               | ✅ Mars               | ✅ Terp               | ✅ Terp               | ✅ Fractal            | ✅ Cascadia           | ✅ Babylon            | ✅ Chainflipp         |
-| ✅ DWS                | ✅ Minima             | ✅ Nibiru             | ✅ StarkNet           | ✅ Empower            | ✅ Arkeo              | ✅ Entagle            | ✅ Uptick             |
-| ✅ Empower            | ✅ SUI                | ✅ Nolus              | ✅ Andromeda          | ✅ Gitopia            | ✅ Massa              | ✅ BASE               | ✅ Ziesha             |
-| ✅ Taiko              | ✅ Ziesha             | ✅ Chainflipp         | ✅ SubSpace           | ✅ Defund             | ✅ Taiko              | ✅ Minima             | ✅ Mars               |
+
+|                        |                        |                        |                        |
+|------------------------|------------------------|------------------------|------------------------|
+| ✅ Aptos              | ✅ Humans             | ✅ Defund             | ✅ Celestia           |
+| ✅ Archway            | ✅ Exorde             | ✅ Gitopia            | ✅ Penumbra           |
+| ✅ Umee               | ✅ Mars               | ✅ Terp               | ✅ Terp               |
+| ✅ DWS                | ✅ Minima             | ✅ Nibiru             | ✅ StarkNet           |
+| ✅ Empower            | ✅ SUI                | ✅ Nolus              | ✅ Andromeda          |
+| ✅ Gitopia            | ✅ Massa              | ✅ BASE               | ✅ Ziesha             |
+| ✅ Taiko              | ✅ Ziesha             | ✅ Chainflipp         | ✅ SubSpace           |
+| ✅ Defund             | ✅ Taiko              | ✅ Minima             | ✅ Mars               |
+
 ### 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/889835802371174501) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/red_tvr) 
