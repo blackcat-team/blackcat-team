@@ -29,8 +29,6 @@
 :black_small_square: **Waku**  
 
 <img src='https://github.com/blackcat-team/.github-images/blob/8531f57a7e8c52e126dbd4f9c11b2fd7a1d9d27b/Old.gif' alt='Complete'  width='99.5%'>
-<details>
-  <summary><h3>Show</h3></summary>
   <br>:heavy_check_mark:Aptos</br>    
   <br>:heavy_check_mark:Archway</br>  
   <br>:heavy_check_mark:Umee</br>
@@ -71,8 +69,7 @@
   <br>:heavy_check_mark:Avail</br>
   <br>:heavy_check_mark:Frame</br>
   <br>:heavy_check_mark:Fractal</br>
-</details>
-    
+ 
 ### 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/889835802371174501) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/red_tvr) 
