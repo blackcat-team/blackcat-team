@@ -29,75 +29,31 @@
 :black_small_square: **Waku**  
 
 <img src='https://github.com/blackcat-team/.github-images/blob/8531f57a7e8c52e126dbd4f9c11b2fd7a1d9d27b/Old.gif' alt='Complete'  width='99.5%'>
- <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Three Columns List</title>
-  <style>
-    .container {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 10px; /* Расстояние между элементами */
-    }
-    .column {
-      flex: 1; /* Позволяет колонкам быть одинакового размера */
-      min-width: 200px; /* Минимальная ширина для колонки */
-    }
-    .column ul {
-      list-style-type: none; /* Убирает маркеры списка */
-      padding: 0;
-    }
-    .column li {
-      margin-bottom: 5px; /* Отступ между элементами списка */
-    }
-    .column .checkmark {
-      font-weight: bold; /* Для выделения галочки */
-      color: green; /* Цвет галочки */
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <div class="column">
-      <ul>
-        <li><span class="checkmark">✔</span> Aptos</li>
-        <li><span class="checkmark">✔</span> Archway</li>
-        <li><span class="checkmark">✔</span> Umee</li>
-        <li><span class="checkmark">✔</span> DWS</li>
-        <li><span class="checkmark">✔</span> Empower</li>
-        <li><span class="checkmark">✔</span> Taiko</li>
-        <li><span class="checkmark">✔</span> Chainflipp</li>
-        <li><span class="checkmark">✔</span> Uptick</li>
-      </ul>
-    </div>
-    <div class="column">
-      <ul>
-        <li><span class="checkmark">✔</span> Humans</li>
-        <li><span class="checkmark">✔</span> Exorde</li>
-        <li><span class="checkmark">✔</span> Mars</li>
-        <li><span class="checkmark">✔</span> Minima</li>
-        <li><span class="checkmark">✔</span> SUI</li>
-        <li><span class="checkmark">✔</span> Ziesha</li>
-        <li><span class="checkmark">✔</span> BASE</li>
-        <li><span class="checkmark">✔</span> Massa</li>
-      </ul>
-    </div>
-    <div class="column">
-      <ul>
-        <li><span class="checkmark">✔</span> Defund</li>
-        <li><span class="checkmark">✔</span> Gitopia</li>
-        <li><span class="checkmark">✔</span> Terp</li>
-        <li><span class="checkmark">✔</span> Nibiru</li>
-        <li><span class="checkmark">✔</span> Nolus</li>
-        <li><span class="checkmark">✔</span> Andromeda</li>
-        <li><span class="checkmark">✔</span> Celestia</li>
-        <li><span class="checkmark">✔</span> Penumbra</li>
-      </ul>
-    </div>
-  </div>
-</body>
-</html>
+
+|------------------|-----------------|-----------------|
+| ✔️ Aptos         | ✔️ Humans       | ✔️ Defund       |
+| ✔️ Archway       | ✔️ Exorde       | ✔️ Gitopia      |
+| ✔️ Umee          | ✔️ Mars         | ✔️ Terp         |
+| ✔️ DWS           | ✔️ Minima       | ✔️ Nibiru       |
+| ✔️ Empower       | ✔️ SUI          | ✔️ Nolus        |
+| ✔️ Taiko         | ✔️ Ziesha       | ✔️ Andromeda    |
+| ✔️ Chainflipp    | ✔️ BASE         | ✔️ Celestia     |
+| ✔️ Uptick        | ✔️ Massa        | ✔️ Penumbra     |
+|    ✔️ Irys       |  ✔️ StarkNet    | ✔️ Terp         |
+|                  |                 |    |
+|                  |                 |          |
+|                  |                 | ✔️ Lava         |
+|                  |                 | ✔️ SubSpace     |
+|                  |                 | ✔️ EYWA         |
+|                  |                 | ✔️ Fleek        |
+|                  |                 | ✔️ Cascadia     |
+|                  |                 | ✔️ Arkeo        |
+|                  |                 | ✔️ Babylon      |
+|                  |                 | ✔️ Entagle      |
+|                  |                 | ✔️ Avail        |
+|                  |                 | ✔️ Frame        |
+|                  |                 | ✔️ Fractal      |
+
  
 ### 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/889835802371174501) 
