@@ -18,7 +18,7 @@
 :black_small_square: **Minima**    
 :black_small_square: **HumanNode**  
 :black_small_square: **[Massa](https://explorer.massa.net/mainnet/address/AU16S2WfSi4UsRhA3jEYP3esSaMSaadMfxpvyywdQHxtgyV3kaNH/)**  
-#
+
 <img src='https://github.com/blackcat-team/.github-images/blob/8531f57a7e8c52e126dbd4f9c11b2fd7a1d9d27b/183112064-24d8012d-8808-49dd-add7-d1a631e18170.gif' alt='activetestnet'  width='99.5%'>  
 :black_small_square: **Cysic**  
 :black_small_square: **Ritual**  
