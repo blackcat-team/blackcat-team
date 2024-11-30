@@ -1,6 +1,29 @@
 # 💫 About Me:
-**I am an individual validator and crypto enthusiast.  In the crypto industry since 2018. Participant of many testsnets. To maintain decentralization, I use my own equipment located in the local data centre. 24hr management & monitoring: Grafana/Prometeus/Telegram alerts.**
-#
+
+I am an **individual validator** and **crypto enthusiast** with a passion for the decentralized future. I've been in the crypto industry since 2018 and have actively participated in numerous **testnets**.
+
+### Validator and Infrastructure
+To help maintain **decentralization**, I operate my own equipment located in a local data center. My infrastructure is managed 24/7, with continuous monitoring and alerts through tools like **Grafana**, **Prometheus**, and **Telegram alerts**. This ensures high uptime and optimal performance for the blockchain networks I support.
+
+As a **validator**, my role is to help secure blockchain networks by running nodes, validating transactions, and participating in consensus mechanisms. I focus on maintaining **high uptime** and contributing to the overall security and decentralization of the ecosystem.
+
+### Testnets and Blockchain Projects
+I am deeply involved in **testnets**, where I run nodes, test new features, and provide valuable feedback to help improve blockchain projects before they go live on the mainnet. This allows me to stay at the forefront of emerging technologies and collaborate with developers to ensure the success of new blockchain networks.
+
+Additionally, I am an active participant in **early-stage cryptocurrency projects**, supporting the development of new **blockchain protocols**, **DeFi platforms**, and **NFT marketplaces**. By engaging early in these projects, I contribute to testing their functionality, scalability, and security, while gaining valuable insights into the evolving crypto space.
+
+### Expertise
+My experience as a validator, involvement in testnets, and participation in early-stage projects have provided me with a deep understanding of:
+- **Blockchain technology**
+- **Cryptocurrency ecosystems**
+- **Decentralized governance**
+
+I am passionate about **advancing decentralization** and shaping the future of the blockchain industry.
+
+### Let's Connect
+If you are interested in discussing decentralized technologies or collaborating on projects, feel free to connect with me. Let's build the future of blockchain together!
+
+
 ## 🖥 Hardware:
 🌎 **RU**:  
 :black_small_square: Processor - Intel(R) Xeon(R) CPU E5-2682 v4  
