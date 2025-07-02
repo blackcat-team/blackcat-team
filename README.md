@@ -23,6 +23,12 @@ I am passionate about **advancing decentralization** and shaping the future of t
 ### Let's Connect
 If you are interested in discussing decentralized technologies or collaborating on projects, feel free to connect with me. Let's build the future of blockchain together!
 
+## 🛠️ Technologies I Work With
+
+![Bash](https://img.shields.io/badge/-Bash-121011?style=flat&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ## 🖥 Hardware:
 🌎 **RU**:  
