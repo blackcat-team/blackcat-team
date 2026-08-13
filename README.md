@@ -59,9 +59,7 @@ Some of the features:
 
 <div align="center">
 
-<a href="https://github.com/blackcat-team/Bybit_Trading_bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=blackcat-team&repo=Bybit_Trading_bot&theme=transparent&hide_border=true" alt="Bybit Telegram Trading Bot">
-</a>
+[![View Project](https://img.shields.io/badge/View_Project-Bybit_Trading_bot-181717?style=for-the-badge&logo=github)](https://github.com/blackcat-team/Bybit_Trading_bot)
 
 </div>
 
@@ -164,8 +162,7 @@ I keep this section here because it is where a lot of my infrastructure experien
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=blackcat-team&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="BlackCat GitHub stats">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackcat-team&layout=compact&hide_border=true&theme=transparent" alt="Top languages">
+
 
 </div>
 
