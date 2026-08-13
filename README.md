@@ -22,7 +22,7 @@
 
 ## 🐈‍⬛ About me
 
-I've been around crypto since 2018.
+I've been around crypto since 2021.
 
 I started with testnets, validators and blockchain nodes. That got me into Linux, servers, monitoring and infrastructure. Later I moved deeper into Python, automation and exchange APIs.
 
