@@ -1,78 +1,196 @@
-# 💫 About Me:
+<div align="center">
 
-I am an **individual validator** and **crypto enthusiast** with a passion for the decentralized future. I've been in the crypto industry since 2018 and have actively participated in numerous **testnets**.
+<img src="./blackcat-banner.png" width="100%" alt="BlackCat">
 
-### Validator and Infrastructure
-To help maintain **decentralization**, I operate my own equipment located in a local data center. My infrastructure is managed 24/7, with continuous monitoring and alerts through tools like **Grafana**, **Prometheus**, and **Telegram alerts**. This ensures high uptime and optimal performance for the blockchain networks I support.
+<br><br>
 
-As a **validator**, my role is to help secure blockchain networks by running nodes, validating transactions, and participating in consensus mechanisms. I focus on maintaining **high uptime** and contributing to the overall security and decentralization of the ecosystem.
+<a href="https://t.me/red_tvr">
+  <img src="https://img.shields.io/badge/Telegram-@red__tvr-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</a>
+<a href="https://x.com/red_tvr">
+  <img src="https://img.shields.io/badge/X-@red__tvr-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+</a>
+<img src="https://img.shields.io/badge/Discord-redtvr-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 
-### Testnets and Blockchain Projects
-I am deeply involved in **testnets**, where I run nodes, test new features, and provide valuable feedback to help improve blockchain projects before they go live on the mainnet. This allows me to stay at the forefront of emerging technologies and collaborate with developers to ensure the success of new blockchain networks.
+<br><br>
 
-Additionally, I am an active participant in **early-stage cryptocurrency projects**, supporting the development of new **blockchain protocols**, **DeFi platforms**, and **NFT marketplaces**. By engaging early in these projects, I contribute to testing their functionality, scalability, and security, while gaining valuable insights into the evolving crypto space.
+<img src="https://komarev.com/ghpvc/?username=blackcat-team&label=Profile%20views&style=flat-square" alt="Profile views">
 
-### Expertise
-My experience as a validator, involvement in testnets, and participation in early-stage projects have provided me with a deep understanding of:
-- **Blockchain technology**
-- **Cryptocurrency ecosystems**
-- **Decentralized governance**
+</div>
 
-I am passionate about **advancing decentralization** and shaping the future of the blockchain industry.
+---
 
-### Let's Connect
-If you are interested in discussing decentralized technologies or collaborating on projects, feel free to connect with me. Let's build the future of blockchain together!
+## 🐈‍⬛ About me
 
-## 🛠️ Technologies I Work With
+I've been around crypto since 2018.
 
-![Bash](https://img.shields.io/badge/-Bash-121011?style=flat&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+I started with testnets, validators and blockchain nodes. That got me into Linux, servers, monitoring and infrastructure. Later I moved deeper into Python, automation and exchange APIs.
 
-## 🖥 Hardware:
-🌎 **RU**:  
-:black_small_square: Processor - Intel(R) Xeon(R) CPU E5-2682 v4  
-:black_small_square: RAM - 128GB DDR4 RAM  
-:black_small_square: Drives - 3 x 2TB NVMe SSD  
-:black_small_square: Bandwidth - 1 Gbit/s-Port  
-🌎 **GER**:  
-:black_small_square: Processor - AMD Ryzen 5950X  
-:black_small_square: RAM - 128GB DDR4 RAM  
-:black_small_square: Drives - 3 x 2TB NVMe SSD  
-:black_small_square: Bandwidth - 1 Gbit/s-Port  
-#
-<img src='https://user-images.githubusercontent.com/83868103/183111052-2bc3a8cf-f5b7-4915-8a09-212f09859e34.gif' width='99.5%'>
+These days I mostly build things around **crypto markets, trading workflows and market data**.
 
-:black_small_square: **Minima**    
-:black_small_square: **HumanNode**  
-:black_small_square: **[Massa](https://explorer.massa.net/mainnet/address/AU16S2WfSi4UsRhA3jEYP3esSaMSaadMfxpvyywdQHxtgyV3kaNH/)**  
+A lot of my projects start from the same thought: "I'm tired of checking or doing this manually. Can I automate it?"
 
-<img src='https://github.com/blackcat-team/.github-images/blob/8531f57a7e8c52e126dbd4f9c11b2fd7a1d9d27b/183112064-24d8012d-8808-49dd-add7-d1a631e18170.gif' alt='activetestnet'  width='99.5%'>  
+Sometimes the result is a small script. Sometimes it turns into a service that runs 24/7.
 
-:black_small_square: **Cysic**    
-:black_small_square: **Ritual**    
-:black_small_square: **[Crowd Control](https://testnet.itrocket.net/cardchain/staking/ccvaloper1w79t4xnxhfvtu54m3ymw2fvthdj9pfg7egftlu)**         
-:black_small_square: **Shardeum**    
-:black_small_square: **Rivalz**      
-:black_small_square: **Waku**  
+I care a lot about the boring parts too: logs, monitoring, recovery, testing, risk controls and making sure things keep working when nobody is watching them.
 
-<img src='https://github.com/blackcat-team/.github-images/blob/8531f57a7e8c52e126dbd4f9c11b2fd7a1d9d27b/Old.gif' alt='Complete'  width='99.5%'>
+---
 
-|                        |                        |                        |                        |
-|------------------------|------------------------|------------------------|------------------------|
-| ✅ Aptos              | ✅ Humans             | ✅ Defund             | ✅ Celestia           |
-| ✅ Archway            | ✅ Exorde             | ✅ Gitopia            | ✅ Penumbra           |
-| ✅ Umee               | ✅ Mars               | ✅ Terp               | ✅ Terp               |
-| ✅ DWS                | ✅ Minima             | ✅ Nibiru             | ✅ StarkNet           |
-| ✅ Empower            | ✅ SUI                | ✅ Nolus              | ✅ Andromeda          |
-| ✅ Gitopia            | ✅ Massa              | ✅ BASE               | ✅ Ziesha             |
-| ✅ Taiko              | ✅ Ziesha             | ✅ Chainflipp         | ✅ SubSpace           |
-| ✅ Defund             | ✅ Taiko              | ✅ Minima             | ✅ Mars               |
+## 🚀 Featured project
 
-### 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/889835802371174501) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/red_tvr) 
-#### 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/red_tvr)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-<img src="https://komarev.com/ghpvc/?username=your-github-blackcat-team&style=flat-square&color=blue" alt=""/>
+### 📈 [Bybit Telegram Trading Bot](https://github.com/blackcat-team/Bybit_Trading_bot)
+
+A Python trading bot for **Bybit Linear USDT** controlled through Telegram.
+
+It started as a tool for my own trading workflow and kept growing as I added the things I actually needed.
+
+Some of the features:
+
+* fixed risk per trade
+* automatic position sizing
+* Stop Loss management
+* multi-level Take Profit logic
+* breakeven handling
+* trading signal parsing
+* Telegram controls
+* position and order monitoring
+* PnL reports
+* Linux deployment with `systemd`
+
+<div align="center">
+
+<a href="https://github.com/blackcat-team/Bybit_Trading_bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=blackcat-team&repo=Bybit_Trading_bot&theme=transparent&hide_border=true" alt="Bybit Telegram Trading Bot">
+</a>
+
+</div>
+
+---
+
+## 🔬 What I'm working on
+
+Most of my current work sits somewhere between crypto markets and automation.
+
+Things I'm interested in right now:
+
+* 📊 exchange market data
+* 💸 funding rates and cross-exchange spreads
+* 🔔 listing and market event monitoring
+* 🔌 exchange API integrations
+* 🤖 Telegram bots and notifications
+* 🛡️ trading risk management
+* 🗄️ collecting data for later research
+* 🖥️ long-running Python services
+
+I especially like turning data from several exchanges and sources into something that can be monitored, compared and acted on automatically.
+
+---
+
+## 🛠️ Tools I use
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,bash,linux,ubuntu,docker,git,github,postgres,sqlite,vscode" alt="Tech stack">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Bots">
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus">
+<img src="https://img.shields.io/badge/systemd-111111?style=flat-square&logo=linux&logoColor=white" alt="systemd">
+<img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square" alt="REST APIs">
+<img src="https://img.shields.io/badge/Exchange%20APIs-1F6FEB?style=flat-square" alt="Exchange APIs">
+
+</div>
+
+---
+
+## 🖥️ Infrastructure
+
+I spent several years running blockchain nodes and validators, so infrastructure was a big part of how I learned the technical side of crypto.
+
+My experience includes:
+
+* Linux and Ubuntu server administration
+* Docker
+* systemd services and timers
+* Python services
+* PostgreSQL and SQLite
+* Grafana and Prometheus
+* Telegram monitoring and alerts
+* server migrations and upgrades
+* troubleshooting long-running services
+* unattended workloads
+
+I don't run the old testnet server fleet anymore.
+
+Today most of my infrastructure work is about keeping my own bots, monitors, data collectors and other crypto tools running reliably.
+
+---
+
+<details>
+<summary><b>⛓️ Validator and testnet history</b></summary>
+
+<br>
+
+Nodes and testnets were a big part of my crypto journey.
+
+Over the years I've worked with networks and projects including:
+
+`Aptos` • `Celestia` • `Sui` • `Starknet` • `Taiko` • `Massa`
+
+`Archway` • `Exorde` • `Gitopia` • `Penumbra` • `Umee` • `Nibiru`
+
+`Empower` • `Nolus` • `Minima` • `Shardeum` • `Cysic` • `Ritual`
+
+`Waku` • `Rivalz` • `Chainflip` • `Subspace` • `BASE` • `Humans`
+
+That work included:
+
+* node installation and maintenance
+* validator operation
+* network upgrades
+* monitoring
+* troubleshooting
+* testnet participation
+
+I keep this section here because it is where a lot of my infrastructure experience started, even though nodes are no longer my main focus.
+
+</details>
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=blackcat-team&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="BlackCat GitHub stats">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackcat-team&layout=compact&hide_border=true&theme=transparent" alt="Top languages">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=blackcat-team&theme=github-compact&hide_border=true&area=true" alt="Contribution graph">
+
+</div>
+
+---
+
+## 🤝 Contact
+
+Telegram is usually the easiest way to reach me.
+
+<div align="center">
+
+<a href="https://t.me/red_tvr">
+  <img src="https://img.shields.io/badge/Telegram-@red__tvr-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</a>
+<a href="https://x.com/red_tvr">
+  <img src="https://img.shields.io/badge/X-@red__tvr-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+</a>
+<img src="https://img.shields.io/badge/Discord-redtvr-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+
+</div>
